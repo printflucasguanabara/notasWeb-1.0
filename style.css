@@ -1,7 +1,7 @@
 body{
     margin: 0;
     font-family: 'poppins'sans-serif;
-    background: linear-gradient(120deg, #2c2c5e,#6d4af7);
+    background: linear-gradient(120deg, #92FFC0,#002661);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,7 +20,7 @@ header{
     margin-bottom: 20px;
 }
 h1{
-    color: #6d4af7;
+    color: #002661;
 }
 textarea{
     width: 100%;
@@ -36,7 +36,7 @@ button{
     display: block;
     margin: 20px auto;
     padding: 10px 20px;
-    background-color: #6d4af7;
+    background-color: #002661;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -46,7 +46,7 @@ button{
     font-size: 22px;
 }
 button:hover{
-    background-color: #0056b3;
+    background-color: #388458;
 }
 ul{
     list-style: none;
